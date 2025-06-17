@@ -57,3 +57,7 @@ Deployed using Streamlit
 
 📌 Note
 This system is for educational and experimental purposes only. It should not be used as a substitute for professional medical advice, diagnosis, or treatment.
+
+
+Check out the link below to use the web app:
+https://health-prediction-app-zlyfmomh6r7lc2fxqhqfez.streamlit.app/
