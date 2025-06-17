@@ -15,9 +15,9 @@ Make sure all necessary libraries (such as streamlit, scikit-learn, pandas, etc.
 🧪 Google Colab Notebooks
 The models for each disease were trained and evaluated in Google Colab. You can explore or reproduce the training process using the following notebooks:
 
-🩸 Diabetes Prediction Model
-❤️ Heart Disease Prediction Model
-🧠 Parkinson’s Disease Prediction Model
+🩸 Diabetes Prediction Model - https://colab.research.google.com/drive/13IT5ypUMuwaxWXXUMIFiATihtmOcU7Iy?usp=sharing
+❤️ Heart Disease Prediction Model - https://colab.research.google.com/drive/1teEEtnplL-ib1zIClEe3loTpYqcLZw0q?usp=sharing
+🧠 Parkinson’s Disease Prediction Model - https://colab.research.google.com/drive/19jyvw5GPQ19tn_XQELHRX8WenlwTUw0t?usp=sharing
 Each notebook covers:
 
 Dataset loading and preprocessing
